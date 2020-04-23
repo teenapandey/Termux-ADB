@@ -29,4 +29,4 @@ rm -rf $downpath
 rm -rf InstallTools.sh
 echo
 echo -e "\e[32mTools were successfully installed!\e[39m"
-echo
+echo 
